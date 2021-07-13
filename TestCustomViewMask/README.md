@@ -1,5 +1,5 @@
 # 题目：
-请自定义一个镂空View: [Mask.kt](app/src/main/java/com/glow/test/Mask.kt),模拟高亮效果。
+请自定义一个镂空View: [Mask.kt](app/src/main/java/com/glow/test/Mask.kt)，模拟高亮效果。
 
 
 ## 要求：
